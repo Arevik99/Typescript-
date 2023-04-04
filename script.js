@@ -1,9 +1,12 @@
+<<<<<<< HEAD
+=======
 'use strict';
 
 let range = {
     from: 0,
     to: 10
 }
+//
 range[Symbol.iterator] = function () {
     return {
         current: this.from,
@@ -257,3 +260,4 @@ async function tableCall() {
     }
 
 createButtonTable();
+>>>>>>> dd51783f48817ed396ada28e264326ab6d6ebefb
