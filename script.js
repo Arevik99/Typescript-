@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 'use strict';
 
 let range = {
@@ -258,3 +260,4 @@ async function tableCall() {
     }
 
 createButtonTable();
+>>>>>>> dd51783f48817ed396ada28e264326ab6d6ebefb
