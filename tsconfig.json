@@ -1,0 +1,44 @@
+//interface
+
+// Interface User {
+//     name: string;
+//     age: number;
+//     }
+     
+//     const user: User = {
+//     name: 'Monster',
+//     age: 30
+//     };
+     
+//     const user2: User = {
+//     name: "Jack"
+// };
+
+//class
+
+// class Person {
+ 
+//     name: string;
+//     constructor(userName: string) {
+ 
+//         this.name = userName;
+//     }
+//     print(): void {
+//         console.log(`Имя: ${this.name}`);
+//     }
+// }
+ 
+// class Employee extends Person {
+ 
+//     company: string;
+//     work(): void {
+//         console.log(`${this.name} работает в компании ${this.company}`);
+//     }
+// }
+ 
+// let bob: Employee = new Employee("Bob");
+// bob.print();
+// bob.company = "Microsoft";
+// bob.work();
+
+//
